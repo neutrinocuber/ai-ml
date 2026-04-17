@@ -22,11 +22,11 @@ K=5
 
 Plots:  
 band gap vs log10\
-<img width="670" height="518" alt="image" src="https://github.com/user-attachments/assets/b890cfc0-2aa6-4a8e-bb0b-6ddb37437882" />
+<img width="670" height="518" alt="image" src="https://github.com/user-attachments/assets/b890cfc0-2aa6-4a8e-bb0b-6ddb37437882" />\
 type vs log10\
-<img width="684" height="516" alt="image" src="https://github.com/user-attachments/assets/5605b2c6-e8d2-422d-b7b1-07500de2f65b" />
+<img width="684" height="516" alt="image" src="https://github.com/user-attachments/assets/5605b2c6-e8d2-422d-b7b1-07500de2f65b" />\
 type vs band gap\
-<img width="686" height="521" alt="image" src="https://github.com/user-attachments/assets/d04f6185-15bc-4bd2-aeb7-7defd4c1a851" />
+<img width="686" height="521" alt="image" src="https://github.com/user-attachments/assets/d04f6185-15bc-4bd2-aeb7-7defd4c1a851" />\
 
 Conclusion:\
 Both methods gave identical results
